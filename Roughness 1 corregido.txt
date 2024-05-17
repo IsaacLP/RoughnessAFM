@@ -1,0 +1,10 @@
+RMS roughness	0.691600
+Minimum value	0.000000
+Maximum value	11.352500
+Peak to peak	11.352500
+Roughness average	0.375400
+Average height	1.612500
+Surface skewness	5.064300
+Sruface kurtosis	45.884300
+Plane offset	0.075611
+Ironed surface	270287.964183
